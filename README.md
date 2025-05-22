@@ -4,13 +4,13 @@ Welcome to my internship project at NULLCLASS, where I built a comprehensive dat
 This repository includes 10 interactive and insightful visualizations using Python, Pandas, Plotly, and other data science tools.
 
 
-📊 Project Overview
+📊**Project Overview**
 This project involves implementing advanced data visualizations to gain insights into mobile applications on the Google Play Store.
 The tasks range from sentiment analysis and keyword mining to category-based trends and revenue comparisons.
 
 
 
-✅ Tasks Implemented
+✅ **Tasks Implemented**
 
 1. Revenue vs Installs (Paid Apps Only)
    
@@ -94,7 +94,7 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 -Python
 
 -Pandas, Numpy
@@ -110,7 +110,7 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 
 
 
-🧠 Skills Applied
+🧠 *Skills Applied*
 -Data Preprocessing & Cleaning
 
 -Data Visualization & Filtering
@@ -125,13 +125,13 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 
 
 
-📂 GitHub Repository: https://github.com/komal-22-bot
+📂 *GitHub Repository*: https://github.com/komal-22-bot
 
-📄 Internship Report: Included in the repository
+📄 *Internship Report*: Included in the repository
 
 
 
-📬 Contact
+📬 **Contact**
 Komal Sonar
 Email: sonar.komal2210@gmail.com
 GitHub: https://github.com/komal-22-bot
