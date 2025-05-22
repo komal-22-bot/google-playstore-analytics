@@ -1,0 +1,17 @@
+﻿App,Translated_Review,Sentiment,Sentiment_Polarity,Sentiment_Subjectivity
+MyFitnessPal,Fantastic for tracking calories and macros!,Positive,0.9,0.7
+MyFitnessPal,Very helpful in keeping track of meals.,Positive,0.85,0.6
+Google Fit,Awesome app for monitoring my steps!,Positive,0.8,0.65
+Google Fit,Simple and effective for fitness tracking.,Positive,0.78,0.6
+Calm Meditation,"Love the meditation features, very calming.",Positive,0.92,0.75
+Calm Meditation,Amazing sessions for anxiety relief.,Positive,0.95,0.8
+Fitness Tracker,Perfect for daily activity tracking.,Positive,0.82,0.7
+Fitness Tracker,Accurate and easy to use.,Positive,0.88,0.65
+Nike Training Club,Incredible workouts and free plans!,Positive,0.93,0.7
+Nike Training Club,Love the variety of exercises.,Positive,0.9,0.6
+Home Workout,Great exercises for home fitness!,Positive,0.87,0.68
+Home Workout,Helps me stay active daily.,Positive,0.8,0.65
+Instagram,Love the new features on reels!,Positive,0.7,0.5
+Facebook,"Too many notifications, still good.",Neutral,0.3,0.4
+Snapchat,Fun filters and chats!,Positive,0.85,0.6
+Twitter,"News updates fast, love it!",Positive,0.75,0.5
