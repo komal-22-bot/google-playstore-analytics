@@ -70,7 +70,7 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 
 -Visible only between 6–9 PM IST.
 
-10. Correlation Heatmap
+9. Correlation Heatmap
     
 -Displayed correlation among installs, ratings, and reviews.
 
@@ -78,7 +78,7 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 
 -Visible only between 2–4 PM IST.
 
-12. Bubble Chart – Size vs Rating
+10. Bubble Chart – Size vs Rating
     
 -Bubble size shows installs.
 
