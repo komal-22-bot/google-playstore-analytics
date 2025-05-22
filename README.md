@@ -91,7 +91,24 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 -Visible only between 5–7 PM IST.
 
 
+🚀 How to Run
+Clone the repo:
 
+bash
+Copy
+Edit
+git clone https://github.com/komal-22-bot/playstore-analytics
+cd playstore-analytics
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Open any notebook from the notebooks/ directory and run in Jupyter Notebook.
+
+📆 Time-Based Display Logic
+Each visualization includes logic to show/hide based on IST time as per task guidelines using Python's datetime module.
 
 
 🛠️ **Technologies Used**
@@ -121,6 +138,13 @@ The tasks range from sentiment analysis and keyword mining to category-based tre
 
 -Sentiment & Text Analysis
 
+
+🏁 Final Notes
+-All tasks are implemented using real-world filtering conditions and best practices in data science.
+
+-Each visualization is dynamic and follows dashboard display timing rules as specified.
+
+-Please refer to individual notebook comments for specific implementation logic.
 
 
 
